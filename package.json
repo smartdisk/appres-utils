@@ -1,0 +1,22 @@
+{
+  "name": "@appres/utils",
+  "version": "0.0.0",
+  "description": "URL related functions",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AppRes",
+    "Utils"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartdisk/appres-utils.git"
+  },
+  "homepage": "https://appres.org",
+  "author": "APPRES.ORG",
+  "license": "MIT",
+  "dependencies": {}
+}
